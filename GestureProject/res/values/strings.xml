@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">测试两笔画版本，手势库读取成功，输入find来识别手势： </string>
+    <string name="app_name">GestureProject</string>
+    <string name="find">find</string>
+</resources>
